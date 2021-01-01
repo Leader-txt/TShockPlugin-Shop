@@ -1,0 +1,15 @@
+D:\Project\repos\Shop\RainbowChat\bin\Debug\RainbowChat.dll
+D:\Project\repos\Shop\RainbowChat\bin\Debug\RainbowChat.pdb
+D:\Project\repos\Shop\RainbowChat\bin\Debug\OTAPI.dll
+D:\Project\repos\Shop\RainbowChat\bin\Debug\TerrariaServer.exe
+D:\Project\repos\Shop\RainbowChat\bin\Debug\TShockAPI.dll
+D:\Project\repos\Shop\RainbowChat\bin\Debug\Newtonsoft.Json.dll
+D:\Project\repos\Shop\RainbowChat\bin\Debug\HttpServer.dll
+D:\Project\repos\Shop\RainbowChat\bin\Debug\MySql.Data.dll
+D:\Project\repos\Shop\RainbowChat\bin\Debug\Mono.Data.Sqlite.dll
+D:\Project\repos\Shop\RainbowChat\bin\Debug\BCrypt.Net.dll
+D:\Project\repos\Shop\RainbowChat\obj\Debug\RainbowChat.csprojAssemblyReference.cache
+D:\Project\repos\Shop\RainbowChat\obj\Debug\RainbowChat.csproj.CoreCompileInputs.cache
+D:\Project\repos\Shop\RainbowChat\obj\Debug\RainbowChat.csproj.CopyComplete
+D:\Project\repos\Shop\RainbowChat\obj\Debug\RainbowChat.dll
+D:\Project\repos\Shop\RainbowChat\obj\Debug\RainbowChat.pdb

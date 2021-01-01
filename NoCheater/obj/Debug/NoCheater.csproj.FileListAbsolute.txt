@@ -1,0 +1,15 @@
+D:\Project\repos\Shop\NoCheater\bin\Debug\NoCheater.dll
+D:\Project\repos\Shop\NoCheater\bin\Debug\NoCheater.pdb
+D:\Project\repos\Shop\NoCheater\bin\Debug\Mono.Data.Sqlite.dll
+D:\Project\repos\Shop\NoCheater\bin\Debug\Newtonsoft.Json.dll
+D:\Project\repos\Shop\NoCheater\bin\Debug\OTAPI.dll
+D:\Project\repos\Shop\NoCheater\bin\Debug\TerrariaServer.exe
+D:\Project\repos\Shop\NoCheater\bin\Debug\TShockAPI.dll
+D:\Project\repos\Shop\NoCheater\bin\Debug\HttpServer.dll
+D:\Project\repos\Shop\NoCheater\bin\Debug\MySql.Data.dll
+D:\Project\repos\Shop\NoCheater\bin\Debug\BCrypt.Net.dll
+D:\Project\repos\Shop\NoCheater\obj\Debug\NoCheater.csprojAssemblyReference.cache
+D:\Project\repos\Shop\NoCheater\obj\Debug\NoCheater.csproj.CoreCompileInputs.cache
+D:\Project\repos\Shop\NoCheater\obj\Debug\NoCheater.csproj.CopyComplete
+D:\Project\repos\Shop\NoCheater\obj\Debug\NoCheater.dll
+D:\Project\repos\Shop\NoCheater\obj\Debug\NoCheater.pdb

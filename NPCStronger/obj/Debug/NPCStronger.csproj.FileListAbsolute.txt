@@ -1,0 +1,14 @@
+D:\Code\repos\Shop\NPCStronger\bin\Debug\NPCStronger.dll
+D:\Code\repos\Shop\NPCStronger\bin\Debug\NPCStronger.pdb
+D:\Code\repos\Shop\NPCStronger\bin\Debug\Newtonsoft.Json.dll
+D:\Code\repos\Shop\NPCStronger\bin\Debug\OTAPI.dll
+D:\Code\repos\Shop\NPCStronger\bin\Debug\TerrariaServer.exe
+D:\Code\repos\Shop\NPCStronger\bin\Debug\TShockAPI.dll
+D:\Code\repos\Shop\NPCStronger\bin\Debug\Newtonsoft.Json.xml
+D:\Code\repos\Shop\NPCStronger\bin\Debug\OTAPI.pdb
+D:\Code\repos\Shop\NPCStronger\bin\Debug\TerrariaServer.pdb
+D:\Code\repos\Shop\NPCStronger\obj\Debug\NPCStronger.csprojAssemblyReference.cache
+D:\Code\repos\Shop\NPCStronger\obj\Debug\NPCStronger.csproj.CoreCompileInputs.cache
+D:\Code\repos\Shop\NPCStronger\obj\Debug\NPCStronger.csproj.CopyComplete
+D:\Code\repos\Shop\NPCStronger\obj\Debug\NPCStronger.dll
+D:\Code\repos\Shop\NPCStronger\obj\Debug\NPCStronger.pdb

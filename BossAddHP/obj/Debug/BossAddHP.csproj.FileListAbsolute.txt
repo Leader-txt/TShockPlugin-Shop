@@ -1,0 +1,15 @@
+D:\Project\repos\Shop\BossAddHP\obj\Debug\BossAddHP.csprojAssemblyReference.cache
+D:\Project\repos\Shop\BossAddHP\obj\Debug\BossAddHP.csproj.CoreCompileInputs.cache
+D:\Project\repos\Shop\BossAddHP\bin\Debug\BossAddHP.dll
+D:\Project\repos\Shop\BossAddHP\bin\Debug\BossAddHP.pdb
+D:\Project\repos\Shop\BossAddHP\bin\Debug\Newtonsoft.Json.dll
+D:\Project\repos\Shop\BossAddHP\bin\Debug\OTAPI.dll
+D:\Project\repos\Shop\BossAddHP\bin\Debug\TerrariaServer.exe
+D:\Project\repos\Shop\BossAddHP\bin\Debug\TShockAPI.dll
+D:\Project\repos\Shop\BossAddHP\bin\Debug\HttpServer.dll
+D:\Project\repos\Shop\BossAddHP\bin\Debug\MySql.Data.dll
+D:\Project\repos\Shop\BossAddHP\bin\Debug\Mono.Data.Sqlite.dll
+D:\Project\repos\Shop\BossAddHP\bin\Debug\BCrypt.Net.dll
+D:\Project\repos\Shop\BossAddHP\obj\Debug\BossAddHP.csproj.CopyComplete
+D:\Project\repos\Shop\BossAddHP\obj\Debug\BossAddHP.dll
+D:\Project\repos\Shop\BossAddHP\obj\Debug\BossAddHP.pdb

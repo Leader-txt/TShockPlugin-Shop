@@ -1,0 +1,14 @@
+D:\Code\repos\Shop\SaveWords\bin\Debug\SaveWords.dll
+D:\Code\repos\Shop\SaveWords\bin\Debug\SaveWords.pdb
+D:\Code\repos\Shop\SaveWords\bin\Debug\Newtonsoft.Json.dll
+D:\Code\repos\Shop\SaveWords\bin\Debug\OTAPI.dll
+D:\Code\repos\Shop\SaveWords\bin\Debug\TerrariaServer.exe
+D:\Code\repos\Shop\SaveWords\bin\Debug\TShockAPI.dll
+D:\Code\repos\Shop\SaveWords\bin\Debug\Newtonsoft.Json.xml
+D:\Code\repos\Shop\SaveWords\bin\Debug\OTAPI.pdb
+D:\Code\repos\Shop\SaveWords\bin\Debug\TerrariaServer.pdb
+D:\Code\repos\Shop\SaveWords\obj\Debug\SaveWords.csprojAssemblyReference.cache
+D:\Code\repos\Shop\SaveWords\obj\Debug\SaveWords.csproj.CoreCompileInputs.cache
+D:\Code\repos\Shop\SaveWords\obj\Debug\SaveWords.csproj.CopyComplete
+D:\Code\repos\Shop\SaveWords\obj\Debug\SaveWords.dll
+D:\Code\repos\Shop\SaveWords\obj\Debug\SaveWords.pdb
