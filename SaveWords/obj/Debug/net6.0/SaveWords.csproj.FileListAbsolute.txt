@@ -1,0 +1,13 @@
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\SaveWords\obj\Debug\net6.0\SaveWords.csproj.AssemblyReference.cache
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\SaveWords\obj\Debug\net6.0\SaveWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\SaveWords\obj\Debug\net6.0\SaveWords.AssemblyInfoInputs.cache
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\SaveWords\obj\Debug\net6.0\SaveWords.AssemblyInfo.cs
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\SaveWords\obj\Debug\net6.0\SaveWords.csproj.CoreCompileInputs.cache
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\SaveWords\bin\Debug\net6.0\HttpServer.dll
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\SaveWords\bin\Debug\net6.0\SaveWords.deps.json
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\SaveWords\bin\Debug\net6.0\SaveWords.dll
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\SaveWords\bin\Debug\net6.0\SaveWords.pdb
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\SaveWords\obj\Debug\net6.0\SaveWords.dll
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\SaveWords\obj\Debug\net6.0\refint\SaveWords.dll
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\SaveWords\obj\Debug\net6.0\SaveWords.pdb
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\SaveWords\obj\Debug\net6.0\ref\SaveWords.dll

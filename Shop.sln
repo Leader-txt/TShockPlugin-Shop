@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29806.167
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop", "Shop\Shop.csproj", "{9A614731-5407-4388-B225-BC14446DC4C2}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopForm", "ShopForm\ShopForm.csproj", "{AC4DE3A5-B3F2-48CD-96EA-53247B4A3BAD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RainbowChat", "RainbowChat\RainbowChat.csproj", "{8F49A3AD-3ACC-4D3D-A2F7-4FAFBEFCB04D}"
 EndProject
@@ -31,10 +29,6 @@ Global
 		{9A614731-5407-4388-B225-BC14446DC4C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A614731-5407-4388-B225-BC14446DC4C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A614731-5407-4388-B225-BC14446DC4C2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AC4DE3A5-B3F2-48CD-96EA-53247B4A3BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AC4DE3A5-B3F2-48CD-96EA-53247B4A3BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AC4DE3A5-B3F2-48CD-96EA-53247B4A3BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AC4DE3A5-B3F2-48CD-96EA-53247B4A3BAD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8F49A3AD-3ACC-4D3D-A2F7-4FAFBEFCB04D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8F49A3AD-3ACC-4D3D-A2F7-4FAFBEFCB04D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F49A3AD-3ACC-4D3D-A2F7-4FAFBEFCB04D}.Release|Any CPU.ActiveCfg = Release|Any CPU

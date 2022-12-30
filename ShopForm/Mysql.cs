@@ -29,6 +29,10 @@ namespace ShopForm
                 coon.Open();
                 
             }
+            catch
+            {
+                Console.WriteLine("MySQL连接失败!请检查配置是否正确.");
+            }
         }
 
         private void Mysql_Load(object sender, EventArgs e)

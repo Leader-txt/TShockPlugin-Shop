@@ -1,0 +1,9 @@
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\ShopForm\obj\Debug\net6.0\ShopForm.csproj.AssemblyReference.cache
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\ShopForm\obj\Debug\net6.0\ShopForm.Config.resources
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\ShopForm\obj\Debug\net6.0\ShopForm.Mysql.resources
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\ShopForm\obj\Debug\net6.0\ShopForm.Properties.Resources.resources
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\ShopForm\obj\Debug\net6.0\ShopForm.csproj.GenerateResource.cache
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\ShopForm\obj\Debug\net6.0\ShopForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\ShopForm\obj\Debug\net6.0\ShopForm.AssemblyInfoInputs.cache
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\ShopForm\obj\Debug\net6.0\ShopForm.AssemblyInfo.cs
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\ShopForm\obj\Debug\net6.0\ShopForm.csproj.CoreCompileInputs.cache

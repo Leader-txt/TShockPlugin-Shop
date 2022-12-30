@@ -15,7 +15,7 @@ using MySql.Data.MySqlClient;
 using Newtonsoft.Json;
 using TShockAPI.DB;
 using System.Data;
-using Mono.Data.Sqlite;
+using Microsoft.Data.Sqlite;
 using System.Windows.Forms;
 using Terraria.ID;
 using Terraria.GameContent.Achievements;
@@ -58,7 +58,6 @@ namespace Shop
         {
             if (!File.Exists(Config.GetConfig().SQLPath))
             {
-                SqliteConnection.CreateFile(Config.GetConfig().SQLPath);
                 Data.connection.Open();
                 Data.Command($"create table {Tables.Bank.TableName}({Tables.Bank.Columns.Account.Name} text,{Tables.Bank.Columns.Money.Name} int(64))");
                 Data.Command("create table item(NetID int(32),Num int(32),Prize int(32))");

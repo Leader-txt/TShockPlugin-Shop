@@ -76,8 +76,8 @@ namespace TerrariaRPG
         {
             var npc = Main.npc[args.NpcId];
             npc.lifeMax += npc.lifeMax * Data.Config.GetConfig().NPC.Level;
-            Main.npcLifeBytes[args.NpcId] = 4;
-            npc.UpdateNPCDirect(args.NpcId);
+            npc.UpdateNPC(args.NpcId);
+          
         }
 
         private void RPG(CommandArgs args)
@@ -94,7 +94,7 @@ namespace TerrariaRPG
             }
             var config = Data.Config.GetConfig();
             var bank = Shop.Data.GetBank(args.Player.Name);
-            if (args.Parameters.Count() == 0 || args.Parameters[0] == "help")
+            if (args.Parameters.Count == 0 || args.Parameters[0] == "help")
             {
                 args.Player.SendInfoMessage("您当前的职业为:" + job.jobType);
                 args.Player.SendInfoMessage("您当前的余额为:" + bank.Money);
@@ -157,31 +157,31 @@ namespace TerrariaRPG
                         args.Player.SendErrorMessage("抱歉，您无权限操作");
                         return;
                     }
-                    var __job = args.Parameters.Count() == 3 ? Data.Job.GetJob(args.Parameters[2]) : job;
+                    var __job = args.Parameters.Count == 3 ? Data.Job.GetJob(args.Parameters[2]) : job;
                     switch (args.Parameters[1])
                     {
                         case "战士":
                             __job.jobType = Data.Job.JobType.战士;
                             __job.Save();
-                            args.Player.SendSuccessMessage("修改成功," + (args.Parameters.Count() == 3 ?
+                            args.Player.SendSuccessMessage("修改成功," + (args.Parameters.Count == 3 ?
                                 args.Parameters[2] : "您") + "的职业已改为战士");
                             break;
                         case "法师":
                             __job.jobType = Data.Job.JobType.法师;
                             __job.Save();
-                            args.Player.SendSuccessMessage("修改成功," + (args.Parameters.Count() == 3 ?
+                            args.Player.SendSuccessMessage("修改成功," + (args.Parameters.Count== 3 ?
                                 args.Parameters[2] : "您") + "的职业已改为法师");
                             break;
                         case "射手":
                             __job.jobType = Data.Job.JobType.射手;
                             __job.Save();
-                            args.Player.SendSuccessMessage("修改成功," + (args.Parameters.Count() == 3 ?
+                            args.Player.SendSuccessMessage("修改成功," + (args.Parameters.Count == 3 ?
                                 args.Parameters[2] : "您") + "的职业已改为射手");
                             break;
                         case "白丁":
                             __job.jobType = Data.Job.JobType.白丁;
                             __job.Save();
-                            args.Player.SendSuccessMessage("修改成功," + (args.Parameters.Count() == 3 ?
+                            args.Player.SendSuccessMessage("修改成功," + (args.Parameters.Count == 3 ?
                                 args.Parameters[2] : "您") + "已变为白丁");
                             break;
                     }
@@ -192,7 +192,7 @@ namespace TerrariaRPG
                         args.Player.SendErrorMessage("抱歉，您无权限操作");
                         return;
                     }
-                    var _job = args.Parameters.Count() == 3 ? Data.Job.GetJob(args.Parameters[2]) : job;
+                    var _job = args.Parameters.Count == 3 ? Data.Job.GetJob(args.Parameters[2]) : job;
                     if(_job.jobType ==Data.Job.JobType.白丁)
                     {
                         args.Player.SendErrorMessage("抱歉，白丁的等级无法修改");
@@ -205,7 +205,7 @@ namespace TerrariaRPG
                     }
                     _job.Level = lv;
                     _job.Save();
-                    args.Player.SendSuccessMessage((args.Parameters.Count() == 3 ? args.Parameters[2] : "您") +
+                    args.Player.SendSuccessMessage((args.Parameters.Count == 3 ? args.Parameters[2] : "您") +
                         "的等级已改为" + _job.Level);
                     break;
                 case "孟婆汤":
@@ -364,7 +364,7 @@ namespace TerrariaRPG
         private void OnServerChat(ServerChatEventArgs args)
         {
             var player = TShock.Players[args.Who];
-            if (args.Text[0].ToString() == TShock.Config.CommandSpecifier)
+            if (args.Text[0].ToString() == TShock.Config.Settings.CommandSpecifier)
             {
                 return;
             }

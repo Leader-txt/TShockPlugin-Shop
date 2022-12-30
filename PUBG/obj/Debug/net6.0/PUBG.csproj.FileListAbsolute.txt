@@ -1,0 +1,13 @@
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\PUBG\obj\Debug\net6.0\PUBG.csproj.AssemblyReference.cache
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\PUBG\obj\Debug\net6.0\PUBG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\PUBG\obj\Debug\net6.0\PUBG.AssemblyInfoInputs.cache
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\PUBG\obj\Debug\net6.0\PUBG.AssemblyInfo.cs
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\PUBG\obj\Debug\net6.0\PUBG.csproj.CoreCompileInputs.cache
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\PUBG\bin\Debug\net6.0\HttpServer.dll
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\PUBG\bin\Debug\net6.0\PUBG.deps.json
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\PUBG\bin\Debug\net6.0\PUBG.dll
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\PUBG\bin\Debug\net6.0\PUBG.pdb
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\PUBG\obj\Debug\net6.0\PUBG.dll
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\PUBG\obj\Debug\net6.0\refint\PUBG.dll
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\PUBG\obj\Debug\net6.0\PUBG.pdb
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\PUBG\obj\Debug\net6.0\ref\PUBG.dll

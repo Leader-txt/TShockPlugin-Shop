@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using TShockAPI;
-using Mono.Data.Sqlite;
+using Microsoft.Data.Sqlite;
 using Terraria.Achievements;
 using System.Windows.Forms;
 using TShockAPI.DB;
