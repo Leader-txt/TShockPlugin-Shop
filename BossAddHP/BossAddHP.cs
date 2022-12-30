@@ -73,7 +73,7 @@ namespace BossAddHP
                     npc.life *= life;
                     for (int _i = 0; _i < Main.npc.Count(); _i++)
                         if (Main.npc[i] == args.Npc)
-                            npc.UpdateNPCDirect(i);
+                            npc.UpdateNPC(i);
                     npc.StrikeNPC(1, 0, 0);
                 }
             }
@@ -98,7 +98,7 @@ namespace BossAddHP
             }
             npc.lifeMax *= life;
             npc.life *= life;
-            npc.UpdateNPCDirect(args.NpcId);
+            npc.UpdateNPC(args.NpcId);
             npc.StrikeNPC(1, 0, 0);
         }
 

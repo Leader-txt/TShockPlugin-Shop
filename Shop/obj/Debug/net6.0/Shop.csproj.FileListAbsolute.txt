@@ -1,0 +1,13 @@
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\Shop\obj\Debug\net6.0\Shop.csproj.AssemblyReference.cache
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\Shop\obj\Debug\net6.0\Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\Shop\obj\Debug\net6.0\Shop.AssemblyInfoInputs.cache
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\Shop\obj\Debug\net6.0\Shop.AssemblyInfo.cs
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\Shop\obj\Debug\net6.0\Shop.csproj.CoreCompileInputs.cache
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\Shop\bin\Debug\net6.0\HttpServer.dll
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\Shop\bin\Debug\net6.0\Shop.deps.json
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\Shop\bin\Debug\net6.0\Shop.dll
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\Shop\bin\Debug\net6.0\Shop.pdb
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\Shop\obj\Debug\net6.0\Shop.dll
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\Shop\obj\Debug\net6.0\refint\Shop.dll
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\Shop\obj\Debug\net6.0\Shop.pdb
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\Shop\obj\Debug\net6.0\ref\Shop.dll

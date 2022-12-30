@@ -1,0 +1,13 @@
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\RainbowChat\obj\Debug\net6.0\RainbowChat.csproj.AssemblyReference.cache
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\RainbowChat\obj\Debug\net6.0\RainbowChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\RainbowChat\obj\Debug\net6.0\RainbowChat.AssemblyInfoInputs.cache
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\RainbowChat\obj\Debug\net6.0\RainbowChat.AssemblyInfo.cs
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\RainbowChat\obj\Debug\net6.0\RainbowChat.csproj.CoreCompileInputs.cache
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\RainbowChat\bin\Debug\net6.0\HttpServer.dll
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\RainbowChat\bin\Debug\net6.0\RainbowChat.deps.json
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\RainbowChat\bin\Debug\net6.0\RainbowChat.dll
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\RainbowChat\bin\Debug\net6.0\RainbowChat.pdb
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\RainbowChat\obj\Debug\net6.0\RainbowChat.dll
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\RainbowChat\obj\Debug\net6.0\refint\RainbowChat.dll
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\RainbowChat\obj\Debug\net6.0\RainbowChat.pdb
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\RainbowChat\obj\Debug\net6.0\ref\RainbowChat.dll

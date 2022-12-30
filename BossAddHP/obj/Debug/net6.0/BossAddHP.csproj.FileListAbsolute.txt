@@ -1,0 +1,13 @@
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\BossAddHP\obj\Debug\net6.0\BossAddHP.csproj.AssemblyReference.cache
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\BossAddHP\obj\Debug\net6.0\BossAddHP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\BossAddHP\obj\Debug\net6.0\BossAddHP.AssemblyInfoInputs.cache
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\BossAddHP\obj\Debug\net6.0\BossAddHP.AssemblyInfo.cs
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\BossAddHP\obj\Debug\net6.0\BossAddHP.csproj.CoreCompileInputs.cache
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\BossAddHP\bin\Debug\net6.0\HttpServer.dll
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\BossAddHP\bin\Debug\net6.0\BossAddHP.deps.json
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\BossAddHP\bin\Debug\net6.0\BossAddHP.dll
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\BossAddHP\bin\Debug\net6.0\BossAddHP.pdb
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\BossAddHP\obj\Debug\net6.0\BossAddHP.dll
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\BossAddHP\obj\Debug\net6.0\refint\BossAddHP.dll
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\BossAddHP\obj\Debug\net6.0\BossAddHP.pdb
+C:\Users\13110\Source\Repos\TShockPlugin-Shop\BossAddHP\obj\Debug\net6.0\ref\BossAddHP.dll
