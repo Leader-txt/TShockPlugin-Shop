@@ -31,7 +31,7 @@ namespace Shop
         /// <summary>
         /// Gets the author(s) of this plugin
         /// </summary>
-        public override string Author => "Leader";
+        public override string Author => "Leader,Cai upgrade to .net core6";
 
         /// <summary>
         /// Gets the description of this plugin.
@@ -47,7 +47,7 @@ namespace Shop
         /// <summary>
         /// Gets the version of this plugin.
         /// </summary>
-        public override Version Version => new Version(3, 1, 0, 0);
+        public override Version Version => new Version(3, 2, 0, 0);
         //public override Version Version => Assembly.GetExecutingAssembly().GetName().Version;
 
         /// <summary>
