@@ -4152,9 +4152,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\TerrariaRPG\\TerrariaRPG.csproj",
+      "projectUniqueName": "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\TerrariaRPG\\TerrariaRPG.csproj",
       "projectName": "TerrariaRPG",
-      "projectPath": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\TerrariaRPG\\TerrariaRPG.csproj",
+      "projectPath": "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\TerrariaRPG\\TerrariaRPG.csproj",
       "packagesPath": "C:\\Users\\13110\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\TerrariaRPG\\obj\\",
       "projectStyle": "PackageReference",
@@ -4177,8 +4177,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\Shop\\Shop.csproj": {
-              "projectPath": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\Shop\\Shop.csproj"
+            "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\Shop\\Shop.csproj": {
+              "projectPath": "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\Shop\\Shop.csproj"
             }
           }
         }

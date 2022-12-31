@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\NoCheater\\NoCheater.csproj": {}
+    "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\NoCheater\\NoCheater.csproj": {}
   },
   "projects": {
-    "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\NoCheater\\NoCheater.csproj": {
+    "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\NoCheater\\NoCheater.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\NoCheater\\NoCheater.csproj",
+        "projectUniqueName": "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\NoCheater\\NoCheater.csproj",
         "projectName": "NoCheater",
-        "projectPath": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\NoCheater\\NoCheater.csproj",
+        "projectPath": "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\NoCheater\\NoCheater.csproj",
         "packagesPath": "C:\\Users\\13110\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\NoCheater\\obj\\",
         "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PUav2SBzR5EEmHcK75JJQierE485i36zm0tRGQurvyD/9GUNn5pU7vKEPe2iVImVSs45MFVoP1SXs3RRCp7bwg==",
+  "dgSpecHash": "h+XxpjmwfFVEwXqIUqA7emx4lHDoHqkcfwZc/jq8jPNuX0DcEU+Y9UrDcDwA86RkOPzl5/+ft1YSeL/S7HzeuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\NoCheater\\NoCheater.csproj",
+  "projectFilePath": "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\NoCheater\\NoCheater.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\13110\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\13110\\.nuget\\packages\\gettext.net\\1.7.14\\gettext.net.1.7.14.nupkg.sha512",

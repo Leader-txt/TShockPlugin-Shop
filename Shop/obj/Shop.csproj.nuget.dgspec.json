@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\Shop\\Shop.csproj": {}
+    "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\Shop\\Shop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\Shop\\Shop.csproj": {
+    "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\Shop\\Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\Shop\\Shop.csproj",
+        "projectUniqueName": "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\Shop\\Shop.csproj",
         "projectName": "Shop",
-        "projectPath": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\Shop\\Shop.csproj",
+        "projectPath": "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\Shop\\Shop.csproj",
         "packagesPath": "C:\\Users\\13110\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\Shop\\obj\\",
         "projectStyle": "PackageReference",

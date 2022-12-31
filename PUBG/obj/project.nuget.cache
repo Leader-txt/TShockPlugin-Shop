@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LV1QBYk7O2zNeVlznoFY00vj+EptLqNkdvG3hyKZWMZVdjiHxRMEW8sGlS9/XaivG/drwCDb+bm2rLYjFb8ZCg==",
+  "dgSpecHash": "6muZvOvHFVyZxWSG/4MtxSqzD/tD7g39Gu5p9q6AItYoKsylF//lt9owV/OmIENnDxZzUacUbl9Id9dMG7mzYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\PUBG\\PUBG.csproj",
+  "projectFilePath": "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\PUBG\\PUBG.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\13110\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\13110\\.nuget\\packages\\gettext.net\\1.7.14\\gettext.net.1.7.14.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tb42b+DSA2Bi13ybnbIHzArXcnHfKpVztuV353AxOqIVJwV5lkg2gqONaXNSC2RbpezEs4XtQ1YhKLQIPeplww==",
+  "dgSpecHash": "c9E8GHlYvDZiEOALIXHGgzH49DClznSp7JKlr7NrFQxiXPsgBSBozlrrGie21iFixX7jsgwMFkZbu0nIBcwdWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\BossAddHP\\BossAddHP.csproj",
+  "projectFilePath": "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\BossAddHP\\BossAddHP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\13110\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\13110\\.nuget\\packages\\gettext.net\\1.7.14\\gettext.net.1.7.14.nupkg.sha512",

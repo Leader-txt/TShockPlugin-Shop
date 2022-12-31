@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BlUEtrpn+gq555eyVH3KQoau9QvGbWLyTn5wT13UU/PR96ko43ZTOHHcOE6y6IR38557piaMk4OP/EjQ0SGz7w==",
+  "dgSpecHash": "HdNz2Wt941bIrp2RtMDrFxTL/9BZVNEY4Wob6JT5brJS1Yf4zRuF6+Qp8SMWM4eWtzpVng72mXl7Hx2Ilw/w/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\RainbowChat\\RainbowChat.csproj",
+  "projectFilePath": "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\RainbowChat\\RainbowChat.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\13110\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\13110\\.nuget\\packages\\gettext.net\\1.7.14\\gettext.net.1.7.14.nupkg.sha512",
