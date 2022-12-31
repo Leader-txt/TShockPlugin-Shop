@@ -4133,11 +4133,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\NoCheater\\NoCheater.csproj",
+      "projectUniqueName": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\NoCheater\\NoCheater.csproj",
       "projectName": "NoCheater",
-      "projectPath": "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\NoCheater\\NoCheater.csproj",
+      "projectPath": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\NoCheater\\NoCheater.csproj",
       "packagesPath": "C:\\Users\\13110\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\NoCheater\\obj\\",
+      "outputPath": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\NoCheater\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
