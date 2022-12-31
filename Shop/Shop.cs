@@ -191,7 +191,7 @@ namespace Shop
             {
                 if (args.Parameters.Count() == 0 || args.Parameters[0] == "help")
                 {
-                    foreach (string s in HelpText)
+                    foreach (string s in (English?EnglishHelpText:HelpText))
                     {
                         args.Player.SendInfoMessage(s);
                     }
@@ -201,7 +201,7 @@ namespace Shop
                     }
                     if (args.Player.HasPermission(Permission))
                     {
-                        foreach (string s in HelpTextForAdmin)
+                        foreach (string s in (English?EnglishHelpTextForAdmin:HelpTextForAdmin))
                         {
                             args.Player.SendInfoMessage(s);
                         }                        
