@@ -5,3 +5,17 @@
 .vs/
 bin/
 obj/
+*/obj/
+*/bin/
+BossAddHP/obj/
+NoCheater/obj/
+NPCStronger/obj/
+PUBG/obj/
+RainbowChat/obj/
+Shop/obj/
+BossAddHP/bin/
+NoCheater/bin/
+NPCStronger/bin/
+PUBG/bin/
+RainbowChat/bin/
+Shop/bin/
