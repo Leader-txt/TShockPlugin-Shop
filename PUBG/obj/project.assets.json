@@ -4133,11 +4133,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\PUBG\\PUBG.csproj",
+      "projectUniqueName": "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\PUBG\\PUBG.csproj",
       "projectName": "PUBG",
-      "projectPath": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\PUBG\\PUBG.csproj",
+      "projectPath": "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\PUBG\\PUBG.csproj",
       "packagesPath": "C:\\Users\\13110\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\PUBG\\obj\\",
+      "outputPath": "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\PUBG\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

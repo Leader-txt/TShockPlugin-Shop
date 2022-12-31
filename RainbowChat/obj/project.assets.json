@@ -4133,11 +4133,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\RainbowChat\\RainbowChat.csproj",
+      "projectUniqueName": "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\RainbowChat\\RainbowChat.csproj",
       "projectName": "RainbowChat",
-      "projectPath": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\RainbowChat\\RainbowChat.csproj",
+      "projectPath": "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\RainbowChat\\RainbowChat.csproj",
       "packagesPath": "C:\\Users\\13110\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\RainbowChat\\obj\\",
+      "outputPath": "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\RainbowChat\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
