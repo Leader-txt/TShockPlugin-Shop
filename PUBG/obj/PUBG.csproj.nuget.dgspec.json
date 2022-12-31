@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\PUBG\\PUBG.csproj": {}
+    "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\PUBG\\PUBG.csproj": {}
   },
   "projects": {
-    "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\PUBG\\PUBG.csproj": {
+    "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\PUBG\\PUBG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\PUBG\\PUBG.csproj",
+        "projectUniqueName": "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\PUBG\\PUBG.csproj",
         "projectName": "PUBG",
-        "projectPath": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\PUBG\\PUBG.csproj",
+        "projectPath": "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\PUBG\\PUBG.csproj",
         "packagesPath": "C:\\Users\\13110\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\PUBG\\obj\\",
         "projectStyle": "PackageReference",

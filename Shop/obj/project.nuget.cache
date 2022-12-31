@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d0ImqvzVSeZbT+i8ux803B9j0AYR5nuycPC4uuiY0Ql/+Sn0DtueG5AGdZmg3OsDO0zWrPZ44UhjDv685a9FHA==",
+  "dgSpecHash": "j1gv0tRzkGTrbfcDru26NlNKZ6+LEudos8P9v/5HpKUr2hcokp5NW/RfgcfesIdwkP4JopruOiBYeU4kKNXOTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\Shop\\Shop.csproj",
+  "projectFilePath": "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\Shop\\Shop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\13110\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\13110\\.nuget\\packages\\gettext.net\\1.7.14\\gettext.net.1.7.14.nupkg.sha512",

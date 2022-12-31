@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iSNTX2e256p6JTVqY3PWklOJlS26YiLGx2UTAoghHN1LIR9d9eiv21U5jv8BIu4EyBKV1KshD5Rjgh/d5hrs5A==",
+  "dgSpecHash": "BrCdwIGbC8gQzSAYz0U48rxVb7YWpFAGotMLsKawyXpPvnssRzRY+f1dLzwlkm45veK3nUBARkXMvfxopOHTdA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\SaveWords\\SaveWords.csproj",
+  "projectFilePath": "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\SaveWords\\SaveWords.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\13110\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\13110\\.nuget\\packages\\gettext.net\\1.7.14\\gettext.net.1.7.14.nupkg.sha512",

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\RainbowChat\\RainbowChat.csproj": {}
+    "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\RainbowChat\\RainbowChat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\RainbowChat\\RainbowChat.csproj": {
+    "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\RainbowChat\\RainbowChat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\RainbowChat\\RainbowChat.csproj",
+        "projectUniqueName": "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\RainbowChat\\RainbowChat.csproj",
         "projectName": "RainbowChat",
-        "projectPath": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\RainbowChat\\RainbowChat.csproj",
+        "projectPath": "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\RainbowChat\\RainbowChat.csproj",
         "packagesPath": "C:\\Users\\13110\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\RainbowChat\\obj\\",
         "projectStyle": "PackageReference",

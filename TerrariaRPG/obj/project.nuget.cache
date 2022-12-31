@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gy+KlQc3ddXiU6KzIG4FYNKG3of2CeKJBa7hVti221FgE/63LbnArsS5fa9tu96T8hmj7YFHfs28nQKg4zkgGQ==",
+  "dgSpecHash": "03eCvrMDo8EOxc/OMntWRAYcOUz+rcJB4m0IZsr0uiCzlp5yM/Bjys4d+p1xElEJKeZxWp/nyDjyPxbsHj+Zyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\13110\\Source\\Repos\\TShockPlugin-Shop\\TerrariaRPG\\TerrariaRPG.csproj",
+  "projectFilePath": "C:\\Users\\13110\\source\\repos\\TShockPlugin-Shop\\TerrariaRPG\\TerrariaRPG.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\13110\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\13110\\.nuget\\packages\\gettext.net\\1.7.14\\gettext.net.1.7.14.nupkg.sha512",
