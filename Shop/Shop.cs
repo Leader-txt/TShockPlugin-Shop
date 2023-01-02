@@ -152,10 +152,10 @@ namespace Shop
         string[] EnglishHelpText = new string[]
         {
            "/shop list,list all the items that the system shop sells",
-           "/shop buy ItemID [i],buy item ,i:how much do you want to buy the item,if the parameter is empty,i=1.",
+           "/shop buy ItemID [i],buy item ,i:how many do you want to buy the item,if the parameter is empty,i=1.",
            "/shop check [PlayerName],check the target player's rest money,if empty,check yourself.",
            "/shop pay [i],recharge,mention:The coin must in your package,the Current exchange rate is"+Config.GetConfig().CoinToMoney+"one copper coin/money",
-           "/shop change,玩家交易"
+           "/shop change,player trade"
         };
         string[] HelpText = new string[]
         {
