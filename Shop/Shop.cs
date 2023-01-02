@@ -50,7 +50,7 @@ namespace Shop
         /// <summary>
         /// Gets the version of this plugin.
         /// </summary>
-        public override Version Version => new Version(3, 2, 0, 0);
+        public override Version Version => new Version(3, 3, 0, 0);
         //public override Version Version => Assembly.GetExecutingAssembly().GetName().Version;
 
         /// <summary>
